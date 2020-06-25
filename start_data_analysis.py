@@ -21,6 +21,7 @@ print array1
 
 data2 = [[1,2,3],[4,5,6]]
 array2 = np.array(data2)
+#测试代码修改
 
 # print data2
 # print array2
